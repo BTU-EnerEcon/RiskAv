@@ -28,6 +28,7 @@ This paper is in review. The reference to the working paper version is as follow
       year={2021},
       eprint={2110.04088},
       archivePrefix={arXiv},
-      primaryClass={econ.GN}
+      primaryClass={econ.GN},
+      url={https://arxiv.org/abs/2110.04088}
 }
 ```
